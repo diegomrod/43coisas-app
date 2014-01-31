@@ -6,7 +6,7 @@
 
   url = require('url');
 
-  Database = require('./Database.coffee');
+  Database = require('./Database.js');
 
   Route = new EventEmitter();
 
