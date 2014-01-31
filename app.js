@@ -4,7 +4,7 @@
 
   http = require('http');
 
-  Route = require('./src/Route.coffee');
+  Route = require('./bin/Route.js');
 
   qs = require("querystring");
 
